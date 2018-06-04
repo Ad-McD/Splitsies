@@ -15,8 +15,8 @@ Adam M.C.Donald
 >using *Xcode (8.2)* IDE on *macOS Sierra (10.12)*
 >Plug-in tested with *Logic Pro X (10.2.0)*
 
-**Build folder could not be uploaded, so you will need to compile the VST yourself
-using Projucer and your preferred IDE.**
+***Build folder could not be uploaded, so you will need to compile the VST yourself
+using Projucer and your preferred IDE.***
 
 ### Known Issues & Development
 
