@@ -5,8 +5,11 @@ Adam M.C.Donald
 ### Overview and Features
 
 >VST Plug-in for DAWs which contains
+
 >2x Juce DSP State Variable Filters in series
+
 >where the second filter is affecting the output of the first
+
 >for more control over which frequencies are sent to an effects bus
 
 ### Initialisation
