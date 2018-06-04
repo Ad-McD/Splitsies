@@ -2,8 +2,6 @@
 ##### BCommMus 133385 Software Summative
 ###### Adam M.C.Donald
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 ###Overview and Features
 
 VST Plug-in for DAWs which contains
